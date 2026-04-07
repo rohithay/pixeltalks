@@ -1,5 +1,5 @@
-# pictotongue
-PictoTongue is a powerful image-to-text conversion tool that breaks down language barriers by allowing you to extract and translate text from any image. Whether you're analyzing screenshots, processing scanned documents, or making foreign news articles accessible, PictoTongue handles it with precision and ease.
+# pixeltalks
+PixelTalks is a powerful image-to-text conversion tool that breaks down language barriers by allowing you to extract and translate text from any image. Whether you're analyzing screenshots, processing scanned documents, or making foreign news articles accessible, PictoTongue handles it with precision and ease.
 
 ## Features
 
